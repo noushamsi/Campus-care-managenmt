@@ -1,0 +1,8 @@
+{
+  "name": "CampusCare Pro",
+  "description": "A comprehensive campus care management platform for monitoring student well-being, managing health incidents, and providing AI-powered support and triage.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
